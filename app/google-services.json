@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014493108442",
+    "project_id": "fir-otpverification-52bab",
+    "storage_bucket": "fir-otpverification-52bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014493108442:android:c6b37805f915b1c3faede3",
+        "android_client_info": {
+          "package_name": "app.my.otpverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014493108442-g3q6hv5pln6gdc1bpub9405s30qj6boo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9RHGQd491n1PiPDZT_afv_GsT5y0tVbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014493108442-g3q6hv5pln6gdc1bpub9405s30qj6boo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
